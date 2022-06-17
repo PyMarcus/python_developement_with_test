@@ -1,0 +1,11 @@
+<testsuite name="calculator.Resolve soma" tests="1" errors="0" failures="0" skipped="0" time="0.0" timestamp="2022-06-17T19:48:44.712573" hostname="DESKTOP-GB1O2N1"><testcase classname="calculator.Resolve soma" name="somar dois valores" status="passed" time="0.0"><system-out>
+<![CDATA[
+@scenario.begin
+  Cenario: somar dois valores
+    Quando sum "2" com "2" ... passed in 0.000s
+    Entao O resultado é "4" ... passed in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
